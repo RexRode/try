@@ -40,3 +40,4 @@ function getRandomColorRight() {
 
     css.textContent = body.style.background + ";";
   }
+alert("This is an alert")
